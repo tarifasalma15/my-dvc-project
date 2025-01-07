@@ -1,0 +1,4 @@
+[core]
+    remote = gdiveremote
+['remote "gdiveremote"']
+    url = gdrive://1OkcCCN_oMZOj_iBTsivHh-yE8WlEb2cY
